@@ -748,3 +748,5 @@ serverTime,deltaT,url,success,length,path
 1535064756.427218,2.2257256507873535,https://job.jobnet.dk/CV/FindWork/Search?Offset=14920&SortValue=BestMatch,True,108909,C:\Notebooks\group19\Eksamensprojekt/591
 1535064758.638988,2.2117700576782227,https://job.jobnet.dk/CV/FindWork/Search?Offset=14940&SortValue=BestMatch,True,108128,C:\Notebooks\group19\Eksamensprojekt/592
 1535064760.8473976,2.208409547805786,https://job.jobnet.dk/CV/FindWork/Search?Offset=14960&SortValue=BestMatch,True,108684,C:\Notebooks\group19\Eksamensprojekt/593
+1535104905.129745,4.896895170211792,https://www.jobindex.dk/jobsoegning.json?q=&jobage=archive&mindate=20080101&maxdate=20091231&page=1,True,124603,C:\Notebooks\group19\Eksamensprojekt/jobindex.txt
+1535104908.4291058,3.299360752105713,https://www.jobindex.dk/jobsoegning.json?q=&jobage=archive&mindate=20080101&maxdate=20091231&page=2,True,130819,C:\Notebooks\group19\Eksamensprojekt/jobindex.txt
