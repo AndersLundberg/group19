@@ -1,4 +1,2 @@
 serverTime,deltaT,url,success,length,path
-1535105296.7677143,4.9479827880859375,https://www.jobindex.dk/jobsoegning.json?q=&jobage=archive&mindate=20080101&maxdate=20091231&page=1,True,124603,C:\Notebooks\group19\Eksamensprojekt/jobindex.txt
-1535119326.923482,4.9139723777771,https://www.jobindex.dk/jobsoegning.json?q=&jobage=archive&mindate=20080101&maxdate=20091231&page=2,True,130819,C:\Notebooks\group19\Eksamensprojekt/jobindex.txt
-1535119343.3112955,4.798196792602539,https://www.jobindex.dk/jobsoegning.json?q=&jobage=archive&mindate=20080101&maxdate=20091231&page=2,True,130819,C:\Notebooks\group19\Eksamensprojekt/jobindex.txt
+1535179474.2439573,4.952694416046143,https://www.jobindex.dk/jobsoegning.json?q=&jobage=archive&mindate=20080101&maxdate=20091231&page=2,True,130817,C:\Notebooks\group19\Eksamensprojekt/jobindex.txt
