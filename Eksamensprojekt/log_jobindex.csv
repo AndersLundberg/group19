@@ -1,0 +1,8 @@
+serverTime,deltaT,url,success,length,path
+1535312699.2299747,2.421635866165161,https://www.jobindex.dk/jobsoegning.json?q=&jobage=archive&mindate=20080101&maxdate=20091231&page=16693,True,120364,C:\Users\pot\Documents\GitHub/jobindex2.txt
+1535312701.7918718,2.561897039413452,https://www.jobindex.dk/jobsoegning.json?q=&jobage=archive&mindate=20080101&maxdate=20091231&page=16694,True,116342,C:\Users\pot\Documents\GitHub/jobindex2.txt
+1535312704.6172278,2.8253560066223145,https://www.jobindex.dk/jobsoegning.json?q=&jobage=archive&mindate=20080101&maxdate=20091231&page=16695,True,119794,C:\Users\pot\Documents\GitHub/jobindex2.txt
+1535312707.5539236,2.9366958141326904,https://www.jobindex.dk/jobsoegning.json?q=&jobage=archive&mindate=20080101&maxdate=20091231&page=16696,True,120162,C:\Users\pot\Documents\GitHub/jobindex2.txt
+1535312710.0858285,2.531904935836792,https://www.jobindex.dk/jobsoegning.json?q=&jobage=archive&mindate=20080101&maxdate=20091231&page=16697,True,125632,C:\Users\pot\Documents\GitHub/jobindex2.txt
+1535312712.7544146,2.668586015701294,https://www.jobindex.dk/jobsoegning.json?q=&jobage=archive&mindate=20080101&maxdate=20091231&page=16698,True,126481,C:\Users\pot\Documents\GitHub/jobindex2.txt
+1535312715.3605363,2.606121778488159,https://www.jobindex.dk/jobsoegning.json?q=&jobage=archive&mindate=20080101&maxdate=20091231&page=16699,True,118960,C:\Users\pot\Documents\GitHub/jobindex2.txt
