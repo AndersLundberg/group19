@@ -1,0 +1,526 @@
+LAU2 Code;National Code;LAU2 name;LAU2 name LATIN;NUTS-3;NUTS-3 LATIN
+DK7025;7025;Johannes Døbers;Johannes Døbers;DK011 - Byen København;null
+DK7057;7057;Hyltebjerg;Hyltebjerg;DK011 - Byen København;null
+DK7068;7068;Brønshøj;Brønshøj;DK011 - Byen København;null
+DK7103;7103;Solbjerg;Solbjerg;DK011 - Byen København;null
+DK7111;7111;Gentofte;Gentofte;DK012 - Københavns omegn;null
+DK7116;7116;Skovshoved;Skovshoved;DK012 - Københavns omegn;null
+DK7117;7117;Hellerup;Hellerup;DK012 - Københavns omegn;null
+DK7119;7119;Kongens Lyngby;Kongens Lyngby;DK012 - Københavns omegn;null
+DK7120;7120;Christians;Christians;DK012 - Københavns omegn;null
+DK7121;7121;Virum;Virum;DK012 - Københavns omegn;null
+DK7126;7126;Vedbæk;Vedbæk;DK013 - Nordsjælland;null
+DK7127;7127;Ny Holte;Ny Holte;DK013 - Nordsjælland;null
+DK7128;7128;Gammel Holte;Gammel Holte;DK013 - Nordsjælland;null
+DK7129;7129;Nærum;Nærum;DK013 - Nordsjælland;null
+DK7131;7131;Søborggård;Søborggård;DK012 - Københavns omegn;null
+DK7133;7133;Stengård;Stengård;DK012 - Københavns omegn;null
+DK7135;7135;Herlev;Herlev;DK012 - Københavns omegn;null
+DK7137;7137;Rødovre;Rødovre;DK012 - Københavns omegn;null
+DK7141;7141;Hvidovre;Hvidovre;DK012 - Københavns omegn;null
+DK7144;7144;Brøndbyvester;Brøndbyvester;DK012 - Københavns omegn;null
+DK7147;7147;Glostrup;Glostrup;DK012 - Københavns omegn;null
+DK7149;7149;Vallensbæk;Vallensbæk;DK012 - Københavns omegn;null
+DK7151;7151;Ishøj;Ishøj;DK012 - Københavns omegn;null
+DK7152;7152;Høje Taastrup;Høje Taastrup;DK012 - Københavns omegn;null
+DK7153;7153;Taastrup Nykirke;Taastrup Nykirke;DK012 - Københavns omegn;null
+DK7154;7154;Værløse;Værløse;DK013 - Nordsjælland;null
+DK7156;7156;Roskilde Domsogn;Roskilde Domsogn;DK021 - Østsjælland;null
+DK7169;7169;Jyllinge;Jyllinge;DK021 - Østsjælland;null
+DK7172;7172;Allerslev;Allerslev;DK021 - Østsjælland;null
+DK7173;7173;Kirke Hvalsø;Kirke Hvalsø;DK021 - Østsjælland;null
+DK7175;7175;Kirke Såby;Kirke Såby;DK021 - Østsjælland;null
+DK7179;7179;Kirke Hyllinge;Kirke Hyllinge;DK021 - Østsjælland;null
+DK7186;7186;Smørum;Smørum;DK013 - Nordsjælland;null
+DK7187;7187;Ballerup;Ballerup;DK012 - Københavns omegn;null
+DK7188;7188;Måløv;Måløv;DK012 - Københavns omegn;null
+DK7189;7189;Skovlunde;Skovlunde;DK012 - Københavns omegn;null
+DK7191;7191;Kastrup;Kastrup;DK011 - Byen København;null
+DK7192;7192;Store Magleby;Store Magleby;DK011 - Byen København;null
+DK7194;7194;Greve;Greve;DK021 - Østsjælland;null
+DK7199;7199;Tune;Tune;DK021 - Østsjælland;null
+DK7200;7200;Karlslunde;Karlslunde;DK021 - Østsjælland;null
+DK7202;7202;Havdrup;Havdrup;DK021 - Østsjælland;null
+DK7203;7203;Solrød;Solrød;DK021 - Østsjælland;null
+DK7206;7206;Køge;Køge;DK021 - Østsjælland;null
+DK7210;7210;Gadstrup;Gadstrup;DK021 - Østsjælland;null
+DK7211;7211;Syv;Syv;DK021 - Østsjælland;null
+DK7214;7214;Borup;Borup;DK021 - Østsjælland;null
+DK7218;7218;Højelse;Højelse;DK021 - Østsjælland;null
+DK7221;7221;Store Fuglede;Store Fuglede;DK022 - Vest- og Sydsjælland;null
+DK7222;7222;Lille Fuglede;Lille Fuglede;DK022 - Vest- og Sydsjælland;null
+DK7227;7227;Ruds Vedby;Ruds Vedby;DK022 - Vest- og Sydsjælland;null
+DK7228;7228;Tersløse;Tersløse;DK022 - Vest- og Sydsjælland;null
+DK7231;7231;Ørslev;Ørslev;DK022 - Vest- og Sydsjælland;null
+DK7235;7235;Finderup;Finderup;DK022 - Vest- og Sydsjælland;null
+DK7236;7236;Gørlev;Gørlev;DK022 - Vest- og Sydsjælland;null
+DK7242;7242;Onsbjerg;Onsbjerg;DK042 - Østjylland;null
+DK7245;7245;Stenlille;Stenlille;DK022 - Vest- og Sydsjælland;null
+DK7247;7247;Føllenslev;Føllenslev;DK022 - Vest- og Sydsjælland;null
+DK7248;7248;Særslev;Særslev;DK022 - Vest- og Sydsjælland;null
+DK7249;7249;Bregninge;Bregninge;DK022 - Vest- og Sydsjælland;null
+DK7252;7252;Avnsø;Avnsø;DK022 - Vest- og Sydsjælland;null
+DK7256;7256;Hørve;Hørve;DK022 - Vest- og Sydsjælland;null
+DK7259;7259;Rørvig;Rørvig;DK022 - Vest- og Sydsjælland;null
+DK7261;7261;Højby;Højby;DK022 - Vest- og Sydsjælland;null
+DK7262;7262;Vig;Vig;DK022 - Vest- og Sydsjælland;null
+DK7263;7263;Nørre Asmindrup;Nørre Asmindrup;DK022 - Vest- og Sydsjælland;null
+DK7265;7265;Grevinge;Grevinge;DK022 - Vest- og Sydsjælland;null
+DK7266;7266;Asnæs;Asnæs;DK022 - Vest- og Sydsjælland;null
+DK7267;7267;Fårevejle;Fårevejle;DK022 - Vest- og Sydsjælland;null
+DK7268;7268;Vor Frue;Vor Frue;DK022 - Vest- og Sydsjælland;null
+DK7274;7274;Sankt Nikolai;Sankt Nikolai;DK022 - Vest- og Sydsjælland;null
+DK7278;7278;Nørre Jernløse;Nørre Jernløse;DK022 - Vest- og Sydsjælland;null
+DK7284;7284;Tølløse;Tølløse;DK022 - Vest- og Sydsjælland;null
+DK7287;7287;Kirke Eskilstrup;Kirke Eskilstrup;DK022 - Vest- og Sydsjælland;null
+DK7288;7288;Store Tåstrup;Store Tåstrup;DK022 - Vest- og Sydsjælland;null
+DK7289;7289;Ugerløse;Ugerløse;DK022 - Vest- og Sydsjælland;null
+DK7295;7295;Gislinge;Gislinge;DK022 - Vest- og Sydsjælland;null
+DK7299;7299;Jyderup;Jyderup;DK022 - Vest- og Sydsjælland;null
+DK7304;7304;Karrebæk;Karrebæk;DK022 - Vest- og Sydsjælland;null
+DK7308;7308;Skælskør;Skælskør;DK022 - Vest- og Sydsjælland;null
+DK7316;7316;Gimlinge;Gimlinge;DK022 - Vest- og Sydsjælland;null
+DK7317;7317;Hårslev;Hårslev;DK022 - Vest- og Sydsjælland;null
+DK7321;7321;Holsteinborg;Holsteinborg;DK022 - Vest- og Sydsjælland;null
+DK7331;7331;Fuglebjerg;Fuglebjerg;DK022 - Vest- og Sydsjælland;null
+DK7338;7338;Munke Bjergby;Munke Bjergby;DK022 - Vest- og Sydsjælland;null
+DK7345;7345;Sankt Mikkels;Sankt Mikkels;DK022 - Vest- og Sydsjælland;null
+DK7348;7348;Sankt Povls;Sankt Povls;DK022 - Vest- og Sydsjælland;null
+DK7360;7360;Vemmelev;Vemmelev;DK022 - Vest- og Sydsjælland;null
+DK7362;7362;Boeslunde;Boeslunde;DK022 - Vest- og Sydsjælland;null
+DK7363;7363;Ringsted;Ringsted;DK022 - Vest- og Sydsjælland;null
+DK7379;7379;Haslev;Haslev;DK022 - Vest- og Sydsjælland;null
+DK7383;7383;Sorø;Sorø;DK022 - Vest- og Sydsjælland;null
+DK7388;7388;Alsted;Alsted;DK022 - Vest- og Sydsjælland;null
+DK7389;7389;Fjenneslev;Fjenneslev;DK022 - Vest- og Sydsjælland;null
+DK7393;7393;Vejby;Vejby;DK013 - Nordsjælland;null
+DK7394;7394;Tibirke;Tibirke;DK013 - Nordsjælland;null
+DK7397;7397;Frederiksværk;Frederiksværk;DK013 - Nordsjælland;null
+DK7400;7400;Ølsted;Ølsted;DK013 - Nordsjælland;null
+DK7403;7403;Skævinge;Skævinge;DK013 - Nordsjælland;null
+DK7406;7406;Gørløse;Gørløse;DK013 - Nordsjælland;null
+DK7407;7407;Melby;Melby;DK013 - Nordsjælland;null
+DK7408;7408;Torup;Torup;DK013 - Nordsjælland;null
+DK7409;7409;Ølstykke;Ølstykke;DK013 - Nordsjælland;null
+DK7410;7410;Stenløse;Stenløse;DK013 - Nordsjælland;null
+DK7414;7414;Farum;Farum;DK013 - Nordsjælland;null
+DK7415;7415;Hillerød;Hillerød;DK013 - Nordsjælland;null
+DK7418;7418;Frederikssund;Frederikssund;DK013 - Nordsjælland;null
+DK7419;7419;Oppe Sundby;Oppe Sundby;DK013 - Nordsjælland;null
+DK7421;7421;Slangerup;Slangerup;DK013 - Nordsjælland;null
+DK7425;7425;Lynge;Lynge;DK013 - Nordsjælland;null
+DK7431;7431;Gilleleje;Gilleleje;DK013 - Nordsjælland;null
+DK7432;7432;Græsted;Græsted;DK013 - Nordsjælland;null
+DK7434;7434;Helsinge;Helsinge;DK013 - Nordsjælland;null
+DK7438;7438;Sankt Mariæ;Sankt Mariæ;DK013 - Nordsjælland;null
+DK7440;7440;Tikøb;Tikøb;DK013 - Nordsjælland;null
+DK7441;7441;Hornbæk;Hornbæk;DK013 - Nordsjælland;null
+DK7442;7442;Hellebæk;Hellebæk;DK013 - Nordsjælland;null
+DK7443;7443;Egebæksvang;Egebæksvang;DK013 - Nordsjælland;null
+DK7444;7444;Asminderød;Asminderød;DK013 - Nordsjælland;null
+DK7446;7446;Humlebæk;Humlebæk;DK013 - Nordsjælland;null
+DK7447;7447;Birkerød;Birkerød;DK013 - Nordsjælland;null
+DK7450;7450;Lillerød;Lillerød;DK013 - Nordsjælland;null
+DK7451;7451;Hørsholm;Hørsholm;DK013 - Nordsjælland;null
+DK7452;7452;Karlebo;Karlebo;DK013 - Nordsjælland;null
+DK7454;7454;Dråby;Dråby;DK013 - Nordsjælland;null
+DK7455;7455;Skibby;Skibby;DK013 - Nordsjælland;null
+DK7468;7468;Skibinge;Skibinge;DK022 - Vest- og Sydsjælland;null
+DK7469;7469;Vordingborg;Vordingborg;DK022 - Vest- og Sydsjælland;null
+DK7473;7473;Snesere;Snesere;DK022 - Vest- og Sydsjælland;null
+DK7480;7480;Mern;Mern;DK022 - Vest- og Sydsjælland;null
+DK7481;7481;Kalvehave;Kalvehave;DK022 - Vest- og Sydsjælland;null
+DK7483;7483;Stege;Stege;DK022 - Vest- og Sydsjælland;null
+DK7488;7488;Borre;Borre;DK022 - Vest- og Sydsjælland;null
+DK7491;7491;Fanefjord;Fanefjord;DK022 - Vest- og Sydsjælland;null
+DK7493;7493;Lille Heddinge;Lille Heddinge;DK022 - Vest- og Sydsjælland;null
+DK7495;7495;Magleby Stevns;Magleby Stevns;DK022 - Vest- og Sydsjælland;null
+DK7497;7497;Strøby;Strøby;DK022 - Vest- og Sydsjælland;null
+DK7507;7507;Lundby;Lundby;DK022 - Vest- og Sydsjælland;null
+DK7511;7511;Sankt Mortens;Sankt Mortens;DK022 - Vest- og Sydsjælland;null
+DK7512;7512;Vester Egede;Vester Egede;DK022 - Vest- og Sydsjælland;null
+DK7515;7515;Herlufmagle;Herlufmagle;DK022 - Vest- og Sydsjælland;null
+DK7519;7519;Glumsø;Glumsø;DK022 - Vest- og Sydsjælland;null
+DK7521;7521;Bogø;Bogø;DK022 - Vest- og Sydsjælland;null
+DK7522;7522;Faxe;Faxe;DK022 - Vest- og Sydsjælland;null
+DK7528;7528;Karise;Karise;DK022 - Vest- og Sydsjælland;null
+DK7531;7531;Tureby;Tureby;DK022 - Vest- og Sydsjælland;null
+DK7537;7537;Bjæverskov;Bjæverskov;DK021 - Østsjælland;null
+DK7540;7540;Herfølge;Herfølge;DK021 - Østsjælland;null
+DK7541;7541;Sædder;Sædder;DK021 - Østsjælland;null
+DK7544;7544;Hårlev;Hårlev;DK022 - Vest- og Sydsjælland;null
+DK7548;7548;Store Heddinge;Store Heddinge;DK022 - Vest- og Sydsjælland;null
+DK7552;7552;Rønne;Rønne;DK014 - Bornholm;null
+DK7557;7557;Hasle;Hasle;DK014 - Bornholm;null
+DK7560;7560;Allinge-Sandvig;Allinge-Sandvig;DK014 - Bornholm;null
+DK7561;7561;Klemensker;Klemensker;DK014 - Bornholm;null
+DK7564;7564;Svaneke;Svaneke;DK014 - Bornholm;null
+DK7566;7566;Gudhjem;Gudhjem;DK014 - Bornholm;null
+DK7567;7567;Østermarie;Østermarie;DK014 - Bornholm;null
+DK7569;7569;Aaker;Aaker;DK014 - Bornholm;null
+DK7571;7571;Nexø;Nexø;DK014 - Bornholm;null
+DK7576;7576;Eskilstrup;Eskilstrup;DK022 - Vest- og Sydsjælland;null
+DK7579;7579;Idestrup;Idestrup;DK022 - Vest- og Sydsjælland;null
+DK7580;7580;Væggerløse;Væggerløse;DK022 - Vest- og Sydsjælland;null
+DK7582;7582;Gedesby;Gedesby;DK022 - Vest- og Sydsjælland;null
+DK7589;7589;Horbelev;Horbelev;DK022 - Vest- og Sydsjælland;null
+DK7594;7594;Majbølle;Majbølle;DK022 - Vest- og Sydsjælland;null
+DK7596;7596;Toreby;Toreby;DK022 - Vest- og Sydsjælland;null
+DK7602;7602;Øster Ulslev;Øster Ulslev;DK022 - Vest- og Sydsjælland;null
+DK7605;7605;Kettinge;Kettinge;DK022 - Vest- og Sydsjælland;null
+DK7607;7607;Stubbekøbing;Stubbekøbing;DK022 - Vest- og Sydsjælland;null
+DK7613;7613;Nørre Alslev;Nørre Alslev;DK022 - Vest- og Sydsjælland;null
+DK7622;7622;Horslunde;Horslunde;DK022 - Vest- og Sydsjælland;null
+DK7630;7630;Dannemare;Dannemare;DK022 - Vest- og Sydsjælland;null
+DK7636;7636;Søllested;Søllested;DK022 - Vest- og Sydsjælland;null
+DK7639;7639;Stokkemarke;Stokkemarke;DK022 - Vest- og Sydsjælland;null
+DK7640;7640;Vesterborg;Vesterborg;DK022 - Vest- og Sydsjælland;null
+DK7642;7642;Sakskøbing;Sakskøbing;DK022 - Vest- og Sydsjælland;null
+DK7643;7643;Nysted;Nysted;DK022 - Vest- og Sydsjælland;null
+DK7648;7648;Maribo Domsogn;Maribo Domsogn;DK022 - Vest- og Sydsjælland;null
+DK7651;7651;Rødby;Rødby;DK022 - Vest- og Sydsjælland;null
+DK7655;7655;Errindlev;Errindlev;DK022 - Vest- og Sydsjælland;null
+DK7659;7659;Holeby;Holeby;DK022 - Vest- og Sydsjælland;null
+DK7665;7665;Østofte;Østofte;DK022 - Vest- og Sydsjælland;null
+DK7666;7666;Bandholm;Bandholm;DK022 - Vest- og Sydsjælland;null
+DK7670;7670;Sankt Nikolaj;Sankt Nikolaj;DK022 - Vest- og Sydsjælland;null
+DK7674;7674;Sandby;Sandby;DK022 - Vest- og Sydsjælland;null
+DK7675;7675;Vor Frue;Vor Frue;DK031 - Fyn;null
+DK7686;7686;Stenstrup;Stenstrup;DK031 - Fyn;null
+DK7688;7688;Kværndrup;Kværndrup;DK031 - Fyn;null
+DK7695;7695;Faaborg;Faaborg;DK031 - Fyn;null
+DK7699;7699;Vester Skerninge;Vester Skerninge;DK031 - Fyn;null
+DK7709;7709;Humble;Humble;DK031 - Fyn;null
+DK7712;7712;Magleby;Magleby;DK031 - Fyn;null
+DK7713;7713;Ærøskøbing;Ærøskøbing;DK031 - Fyn;null
+DK7714;7714;Marstal;Marstal;DK031 - Fyn;null
+DK7719;7719;Oure;Oure;DK031 - Fyn;null
+DK7720;7720;Vejstrup;Vejstrup;DK031 - Fyn;null
+DK7721;7721;Gudme;Gudme;DK031 - Fyn;null
+DK7724;7724;Nyborg;Nyborg;DK031 - Fyn;null
+DK7728;7728;Ullerslev;Ullerslev;DK031 - Fyn;null
+DK7734;7734;Frørup;Frørup;DK031 - Fyn;null
+DK7735;7735;Ørbæk;Ørbæk;DK031 - Fyn;null
+DK7740;7740;Årslev;Årslev;DK031 - Fyn;null
+DK7741;7741;Rudkøbing;Rudkøbing;DK031 - Fyn;null
+DK7744;7744;Tranekær;Tranekær;DK031 - Fyn;null
+DK7762;7762;Svanninge;Svanninge;DK031 - Fyn;null
+DK7766;7766;Ringe;Ringe;DK031 - Fyn;null
+DK7767;7767;Ryslinge;Ryslinge;DK031 - Fyn;null
+DK7768;7768;Gislev;Gislev;DK031 - Fyn;null
+DK7772;7772;Hesselager;Hesselager;DK031 - Fyn;null
+DK7773;7773;Svindinge;Svindinge;DK031 - Fyn;null
+DK7774;7774;Sankt Knuds;Sankt Knuds;DK031 - Fyn;null
+DK7786;7786;Ubberud;Ubberud;DK031 - Fyn;null
+DK7794;7794;Tommerup;Tommerup;DK031 - Fyn;null
+DK7796;7796;Vissenbjerg;Vissenbjerg;DK031 - Fyn;null
+DK7797;7797;Kerteminde;Kerteminde;DK031 - Fyn;null
+DK7798;7798;Munkebo;Munkebo;DK031 - Fyn;null
+DK7801;7801;Assens;Assens;DK031 - Fyn;null
+DK7803;7803;Kærum;Kærum;DK031 - Fyn;null
+DK7817;7817;Køng;Køng;DK031 - Fyn;null
+DK7819;7819;Haarby;Haarby;DK031 - Fyn;null
+DK7827;7827;Asperup;Asperup;DK031 - Fyn;null
+DK7831;7831;Harndrup;Harndrup;DK031 - Fyn;null
+DK7832;7832;Gelsted;Gelsted;DK031 - Fyn;null
+DK7835;7835;Ejby;Ejby;DK031 - Fyn;null
+DK7836;7836;Nørre Aaby;Nørre Aaby;DK031 - Fyn;null
+DK7855;7855;Skamby;Skamby;DK031 - Fyn;null
+DK7856;7856;Bogense;Bogense;DK031 - Fyn;null
+DK7865;7865;Vigerslev;Vigerslev;DK031 - Fyn;null
+DK7866;7866;Veflinge;Veflinge;DK031 - Fyn;null
+DK7867;7867;Søndersø;Søndersø;DK031 - Fyn;null
+DK7868;7868;Agedrup;Agedrup;DK031 - Fyn;null
+DK7869;7869;Marslev;Marslev;DK031 - Fyn;null
+DK7871;7871;Rynkeby;Rynkeby;DK031 - Fyn;null
+DK7873;7873;Mesinge;Mesinge;DK031 - Fyn;null
+DK7875;7875;Dalby;Dalby;DK031 - Fyn;null
+DK7876;7876;Stubberup;Stubberup;DK031 - Fyn;null
+DK7882;7882;Rønninge;Rønninge;DK031 - Fyn;null
+DK7891;7891;Otterup;Otterup;DK031 - Fyn;null
+DK7894;7894;Vor Frelsers;Vor Frelsers;DK032 - Sydjylland;null
+DK7900;7900;Uldum;Uldum;DK042 - Østjylland;null
+DK7903;7903;Bredsten;Bredsten;DK032 - Sydjylland;null
+DK7905;7905;Jelling;Jelling;DK032 - Sydjylland;null
+DK7911;7911;Sankt Michaelis;Sankt Michaelis;DK032 - Sydjylland;null
+DK7916;7916;Gauerslund;Gauerslund;DK032 - Sydjylland;null
+DK7925;7925;Egtved;Egtved;DK032 - Sydjylland;null
+DK7927;7927;Sankt Nicolai;Sankt Nicolai;DK032 - Sydjylland;null
+DK7936;7936;Almind;Almind;DK032 - Sydjylland;null
+DK7937;7937;Viuf;Viuf;DK032 - Sydjylland;null
+DK7943;7943;Sønder Stenderup;Sønder Stenderup;DK032 - Sydjylland;null
+DK7944;7944;Hejls;Hejls;DK032 - Sydjylland;null
+DK7945;7945;Vejstrup;Vejstrup;DK032 - Sydjylland;null
+DK7948;7948;Nebsager;Nebsager;DK042 - Østjylland;null
+DK7951;7951;Stenderup;Stenderup;DK042 - Østjylland;null
+DK7953;7953;Daugård;Daugård;DK042 - Østjylland;null
+DK7954;7954;Stouby;Stouby;DK042 - Østjylland;null
+DK7956;7956;Barrit;Barrit;DK042 - Østjylland;null
+DK7969;7969;Løsning;Løsning;DK042 - Østjylland;null
+DK7971;7971;Hedensted;Hedensted;DK042 - Østjylland;null
+DK7974;7974;Brande;Brande;DK041 - Vestjylland;null
+DK7979;7979;Sønder Omme;Sønder Omme;DK032 - Sydjylland;null
+DK7983;7983;Give;Give;DK032 - Sydjylland;null
+DK7984;7984;Gadbjerg;Gadbjerg;DK032 - Sydjylland;null
+DK7987;7987;Randbøl;Randbøl;DK032 - Sydjylland;null
+DK7993;7993;Bryrup;Bryrup;DK042 - Østjylland;null
+DK7994;7994;Brædstrup;Brædstrup;DK042 - Østjylland;null
+DK7998;7998;Them;Them;DK042 - Østjylland;null
+DK7999;7999;Nørre Snede;Nørre Snede;DK041 - Vestjylland;null
+DK8000;8000;Ejstrup;Ejstrup;DK041 - Vestjylland;null
+DK8003;8003;Tørring;Tørring;DK042 - Østjylland;null
+DK8005;8005;Klovborg;Klovborg;DK041 - Vestjylland;null
+DK8012;8012;Hørning;Hørning;DK042 - Østjylland;null
+DK8017;8017;Silkeborg;Silkeborg;DK042 - Østjylland;null
+DK8022;8022;Hammel;Hammel;DK042 - Østjylland;null
+DK8026;8026;Tvilum;Tvilum;DK042 - Østjylland;null
+DK8027;8027;Gjern;Gjern;DK042 - Østjylland;null
+DK8031;8031;Dallerup;Dallerup;DK042 - Østjylland;null
+DK8032;8032;Låsby;Låsby;DK042 - Østjylland;null
+DK8037;8037;Østbirk;Østbirk;DK042 - Østjylland;null
+DK8043;8043;Tolstrup;Tolstrup;DK042 - Østjylland;null
+DK8044;8044;Ørridslev;Ørridslev;DK042 - Østjylland;null
+DK8052;8052;Klostersogn;Klostersogn;DK042 - Østjylland;null
+DK8057;8057;Hvirring;Hvirring;DK042 - Østjylland;null
+DK8058;8058;Hornborg;Hornborg;DK042 - Østjylland;null
+DK8062;8062;Haldum;Haldum;DK042 - Østjylland;null
+DK8066;8066;Sabro;Sabro;DK042 - Østjylland;null
+DK8071;8071;Trige;Trige;DK042 - Østjylland;null
+DK8087;8087;Odder;Odder;DK042 - Østjylland;null
+DK8093;8093;Hundslund;Hundslund;DK042 - Østjylland;null
+DK8103;8103;Tranbjerg;Tranbjerg;DK042 - Østjylland;null
+DK8104;8104;Skåde;Skåde;DK042 - Østjylland;null
+DK8105;8105;Mårslet;Mårslet;DK042 - Østjylland;null
+DK8106;8106;Tiset;Tiset;DK042 - Østjylland;null
+DK8108;8108;Kolt;Kolt;DK042 - Østjylland;null
+DK8109;8109;Beder;Beder;DK042 - Østjylland;null
+DK8110;8110;Malling;Malling;DK042 - Østjylland;null
+DK8114;8114;Århus Domsogn;Århus Domsogn;DK042 - Østjylland;null
+DK8116;8116;Sankt Markus;Sankt Markus;DK042 - Østjylland;null
+DK8122;8122;Åby;Åby;DK042 - Østjylland;null
+DK8124;8124;Risskov;Risskov;DK042 - Østjylland;null
+DK8128;8128;Brabrand;Brabrand;DK042 - Østjylland;null
+DK8130;8130;Tilst;Tilst;DK042 - Østjylland;null
+DK8141;8141;Nørre Galten;Nørre Galten;DK042 - Østjylland;null
+DK8155;8155;Spentrup;Spentrup;DK042 - Østjylland;null
+DK8160;8160;Glesborg;Glesborg;DK042 - Østjylland;null
+DK8161;8161;Ørum;Ørum;DK042 - Østjylland;null
+DK8163;8163;Nimtofte;Nimtofte;DK042 - Østjylland;null
+DK8170;8170;Lyngby;Lyngby;DK042 - Østjylland;null
+DK8178;8178;Kolind;Kolind;DK042 - Østjylland;null
+DK8180;8180;Skarresø;Skarresø;DK042 - Østjylland;null
+DK8189;8189;Udbyneder;Udbyneder;DK042 - Østjylland;null
+DK8198;8198;Hobro;Hobro;DK050 - Nordjylland;null
+DK8199;8199;Mariager;Mariager;DK050 - Nordjylland;null
+DK8218;8218;Auning;Auning;DK042 - Østjylland;null
+DK8219;8219;Marie Magdalene;Marie Magdalene;DK042 - Østjylland;null
+DK8226;8226;Krogsbæk;Krogsbæk;DK042 - Østjylland;null
+DK8231;8231;Grenaa;Grenaa;DK042 - Østjylland;null
+DK8243;8243;Bregnet;Bregnet;DK042 - Østjylland;null
+DK8244;8244;Mørke;Mørke;DK042 - Østjylland;null
+DK8245;8245;Hornslet;Hornslet;DK042 - Østjylland;null
+DK8246;8246;Skødstrup;Skødstrup;DK042 - Østjylland;null
+DK8247;8247;Todbjerg;Todbjerg;DK042 - Østjylland;null
+DK8249;8249;Hjortshøj;Hjortshøj;DK042 - Østjylland;null
+DK8250;8250;Egå;Egå;DK042 - Østjylland;null
+DK8256;8256;Knebel;Knebel;DK042 - Østjylland;null
+DK8264;8264;Ørsted;Ørsted;DK042 - Østjylland;null
+DK8265;8265;Vivild;Vivild;DK042 - Østjylland;null
+DK8266;8266;Vejlby;Vejlby;DK042 - Østjylland;null
+DK8269;8269;Aars;Aars;DK050 - Nordjylland;null
+DK8282;8282;Farsø;Farsø;DK050 - Nordjylland;null
+DK8291;8291;Durup;Durup;DK050 - Nordjylland;null
+DK8301;8301;Skørping;Skørping;DK050 - Nordjylland;null
+DK8306;8306;Hadsund;Hadsund;DK050 - Nordjylland;null
+DK8321;8321;Klarup;Klarup;DK050 - Nordjylland;null
+DK8325;8325;Storvorde;Storvorde;DK050 - Nordjylland;null
+DK8327;8327;Nibe;Nibe;DK050 - Nordjylland;null
+DK8335;8335;Buderup;Buderup;DK050 - Nordjylland;null
+DK8340;8340;Suldrup;Suldrup;DK050 - Nordjylland;null
+DK8344;8344;Nørre Kongerslev;Nørre Kongerslev;DK050 - Nordjylland;null
+DK8346;8346;Bælum;Bælum;DK050 - Nordjylland;null
+DK8348;8348;Løgstør;Løgstør;DK050 - Nordjylland;null
+DK8350;8350;Ranum;Ranum;DK050 - Nordjylland;null
+DK8364;8364;Budolfi;Budolfi;DK050 - Nordjylland;null
+DK8369;8369;Sankt Markus;Sankt Markus;DK050 - Nordjylland;null
+DK8378;8378;Vadum;Vadum;DK050 - Nordjylland;null
+DK8379;8379;Aaby;Aaby;DK050 - Nordjylland;null
+DK8381;8381;Sulsted;Sulsted;DK050 - Nordjylland;null
+DK8382;8382;Ajstrup;Ajstrup;DK050 - Nordjylland;null
+DK8387;8387;Hals;Hals;DK050 - Nordjylland;null
+DK8389;8389;Dall;Dall;DK050 - Nordjylland;null
+DK8393;8393;Brovst;Brovst;DK050 - Nordjylland;null
+DK8402;8402;Brønderslev;Brønderslev;DK050 - Nordjylland;null
+DK8407;8407;Løkken-Furreby;Løkken-Furreby;DK050 - Nordjylland;null
+DK8414;8414;Vrå;Vrå;DK050 - Nordjylland;null
+DK8416;8416;Jerslev;Jerslev;DK050 - Nordjylland;null
+DK8422;8422;Saltum;Saltum;DK050 - Nordjylland;null
+DK8424;8424;Jetsmark;Jetsmark;DK050 - Nordjylland;null
+DK8425;8425;Hune;Hune;DK050 - Nordjylland;null
+DK8427;8427;Hjallerup;Hjallerup;DK050 - Nordjylland;null
+DK8429;8429;Bindslev;Bindslev;DK050 - Nordjylland;null
+DK8430;8430;Elling;Elling;DK050 - Nordjylland;null
+DK8440;8440;Sæby;Sæby;DK050 - Nordjylland;null
+DK8446;8446;Skæve;Skæve;DK050 - Nordjylland;null
+DK8451;8451;Dronninglund;Dronninglund;DK050 - Nordjylland;null
+DK8452;8452;Aså;Aså;DK050 - Nordjylland;null
+DK8454;8454;Sankt Catharinæ;Sankt Catharinæ;DK050 - Nordjylland;null
+DK8458;8458;Tårs;Tårs;DK050 - Nordjylland;null
+DK8459;8459;Sindal;Sindal;DK050 - Nordjylland;null
+DK8465;8465;Hirtshals;Hirtshals;DK050 - Nordjylland;null
+DK8476;8476;Frederikshavn;Frederikshavn;DK050 - Nordjylland;null
+DK8480;8480;Skagen;Skagen;DK050 - Nordjylland;null
+DK8481;8481;Råbjerg;Råbjerg;DK050 - Nordjylland;null
+DK8491;8491;Thorsø;Thorsø;DK042 - Østjylland;null
+DK8519;8519;Gedsted;Gedsted;DK050 - Nordjylland;null
+DK8529;8529;Roum;Roum;DK041 - Vestjylland;null
+DK8531;8531;Skals;Skals;DK041 - Vestjylland;null
+DK8540;8540;Roslev;Roslev;DK041 - Vestjylland;null
+DK8550;8550;Lihme;Lihme;DK041 - Vestjylland;null
+DK8558;8558;Højslev;Højslev;DK041 - Vestjylland;null
+DK8564;8564;Fiskbæk;Fiskbæk;DK041 - Vestjylland;null
+DK8572;8572;Skive;Skive;DK041 - Vestjylland;null
+DK8580;8580;Hvidbjerg;Hvidbjerg;DK041 - Vestjylland;null
+DK8598;8598;Hørup;Hørup;DK042 - Østjylland;null
+DK8605;8605;Lemming;Lemming;DK042 - Østjylland;null
+DK8612;8612;Engesvang;Engesvang;DK041 - Vestjylland;null
+DK8613;8613;Viborg Domsogn;Viborg Domsogn;DK041 - Vestjylland;null
+DK8619;8619;Vindum;Vindum;DK041 - Vestjylland;null
+DK8622;8622;Bjerringbro;Bjerringbro;DK041 - Vestjylland;null
+DK8631;8631;Langå;Langå;DK042 - Østjylland;null
+DK8634;8634;Tjele;Tjele;DK041 - Vestjylland;null
+DK8648;8648;Vestervig;Vestervig;DK050 - Nordjylland;null
+DK8650;8650;Hurup;Hurup;DK050 - Nordjylland;null
+DK8660;8660;Snedsted;Snedsted;DK050 - Nordjylland;null
+DK8682;8682;Erslev;Erslev;DK050 - Nordjylland;null
+DK8698;8698;Ovtrup;Ovtrup;DK050 - Nordjylland;null
+DK8700;8700;Karby;Karby;DK050 - Nordjylland;null
+DK8703;8703;Vejerslev;Vejerslev;DK050 - Nordjylland;null
+DK8707;8707;Øster Assels;Øster Assels;DK050 - Nordjylland;null
+DK8714;8714;Tømmerby;Tømmerby;DK050 - Nordjylland;null
+DK8719;8719;Vesløs;Vesløs;DK050 - Nordjylland;null
+DK8721;8721;Thisted;Thisted;DK050 - Nordjylland;null
+DK8726;8726;Skjoldborg;Skjoldborg;DK050 - Nordjylland;null
+DK8732;8732;Hansted;Hansted;DK050 - Nordjylland;null
+DK8742;8742;Ulfborg;Ulfborg;DK041 - Vestjylland;null
+DK8747;8747;Vinding;Vinding;DK041 - Vestjylland;null
+DK8749;8749;Ringkøbing;Ringkøbing;DK041 - Vestjylland;null
+DK8755;8755;Brejning;Brejning;DK041 - Vestjylland;null
+DK8757;8757;Hover;Hover;DK041 - Vestjylland;null
+DK8759;8759;Tim;Tim;DK041 - Vestjylland;null
+DK8765;8765;Skjern;Skjern;DK041 - Vestjylland;null
+DK8769;8769;Videbæk;Videbæk;DK041 - Vestjylland;null
+DK8781;8781;Hemmet;Hemmet;DK041 - Vestjylland;null
+DK8789;8789;Herning;Herning;DK041 - Vestjylland;null
+DK8792;8792;Aulum;Aulum;DK041 - Vestjylland;null
+DK8794;8794;Vildbjerg;Vildbjerg;DK041 - Vestjylland;null
+DK8799;8799;Gjellerup;Gjellerup;DK041 - Vestjylland;null
+DK8800;8800;Sunds;Sunds;DK041 - Vestjylland;null
+DK8802;8802;Ikast;Ikast;DK041 - Vestjylland;null
+DK8808;8808;Sønder Felding;Sønder Felding;DK041 - Vestjylland;null
+DK8809;8809;Assing;Assing;DK041 - Vestjylland;null
+DK8812;8812;Bording;Bording;DK041 - Vestjylland;null
+DK8813;8813;Holstebro;Holstebro;DK041 - Vestjylland;null
+DK8816;8816;Struer;Struer;DK041 - Vestjylland;null
+DK8820;8820;Hjerm;Hjerm;DK041 - Vestjylland;null
+DK8828;8828;Vemb;Vemb;DK041 - Vestjylland;null
+DK8837;8837;Haderup;Haderup;DK041 - Vestjylland;null
+DK8840;8840;Lemvig;Lemvig;DK041 - Vestjylland;null
+DK8847;8847;Bøvling;Bøvling;DK041 - Vestjylland;null
+DK8848;8848;Flynder;Flynder;DK041 - Vestjylland;null
+DK8856;8856;Harboøre;Harboøre;DK041 - Vestjylland;null
+DK8858;8858;Thyborøn;Thyborøn;DK041 - Vestjylland;null
+DK8870;8870;Tistrup;Tistrup;DK032 - Sydjylland;null
+DK8871;8871;Ølgod;Ølgod;DK032 - Sydjylland;null
+DK8872;8872;Ansager;Ansager;DK032 - Sydjylland;null
+DK8873;8873;Varde;Varde;DK032 - Sydjylland;null
+DK8875;8875;Billum;Billum;DK032 - Sydjylland;null
+DK8879;8879;Nørre Nebel;Nørre Nebel;DK032 - Sydjylland;null
+DK8881;8881;Henne;Henne;DK032 - Sydjylland;null
+DK8885;8885;Oksby;Oksby;DK032 - Sydjylland;null
+DK8888;8888;Sankt Katharine;Sankt Katharine;DK032 - Sydjylland;null
+DK8895;8895;Gørding;Gørding;DK032 - Sydjylland;null
+DK8897;8897;Åstrup;Åstrup;DK032 - Sydjylland;null
+DK8899;8899;Darum;Darum;DK032 - Sydjylland;null
+DK8900;8900;Bramming;Bramming;DK032 - Sydjylland;null
+DK8903;8903;Jernved;Jernved;DK032 - Sydjylland;null
+DK8904;8904;Aalestrup;Aalestrup;DK050 - Nordjylland;null
+DK8905;8905;Vor Frelsers;Vor Frelsers;DK032 - Sydjylland;null
+DK8915;8915;Årre;Årre;DK032 - Sydjylland;null
+DK8917;8917;Tjæreborg;Tjæreborg;DK032 - Sydjylland;null
+DK8923;8923;Nordby;Nordby;DK032 - Sydjylland;null
+DK8926;8926;Brørup;Brørup;DK032 - Sydjylland;null
+DK8927;8927;Holsted;Holsted;DK032 - Sydjylland;null
+DK8928;8928;Føvling;Føvling;DK032 - Sydjylland;null
+DK8931;8931;Vejen;Vejen;DK032 - Sydjylland;null
+DK8934;8934;Bække;Bække;DK032 - Sydjylland;null
+DK8936;8936;Jordrup;Jordrup;DK032 - Sydjylland;null
+DK8938;8938;Gesten;Gesten;DK032 - Sydjylland;null
+DK8939;8939;Skanderup;Skanderup;DK032 - Sydjylland;null
+DK8942;8942;Grindsted;Grindsted;DK032 - Sydjylland;null
+DK8943;8943;Grene;Grene;DK032 - Sydjylland;null
+DK8944;8944;Vorbasse;Vorbasse;DK032 - Sydjylland;null
+DK8945;8945;Hejnsvig;Hejnsvig;DK032 - Sydjylland;null
+DK8946;8946;Gram;Gram;DK032 - Sydjylland;null
+DK8949;8949;Rødding;Rødding;DK032 - Sydjylland;null
+DK8956;8956;Agerskov;Agerskov;DK032 - Sydjylland;null
+DK8957;8957;Bevtoft;Bevtoft;DK032 - Sydjylland;null
+DK8960;8960;Toftlund;Toftlund;DK032 - Sydjylland;null
+DK8961;8961;Vor Frue;Vor Frue;DK032 - Sydjylland;null
+DK8975;8975;Vojens;Vojens;DK032 - Sydjylland;null
+DK8979;8979;Sommersted;Sommersted;DK032 - Sydjylland;null
+DK8985;8985;Tyrstrup;Tyrstrup;DK032 - Sydjylland;null
+DK8989;8989;Christians;Christians;DK032 - Sydjylland;null
+DK8990;8990;Augustenborg;Augustenborg;DK032 - Sydjylland;null
+DK8999;8999;Nordborg;Nordborg;DK032 - Sydjylland;null
+DK9003;9003;Egen;Egen;DK032 - Sydjylland;null
+DK9004;9004;Broager;Broager;DK032 - Sydjylland;null
+DK9005;9005;Egernsund;Egernsund;DK032 - Sydjylland;null
+DK9010;9010;Aabenraa;Aabenraa;DK032 - Sydjylland;null
+DK9013;9013;Bjolderup;Bjolderup;DK032 - Sydjylland;null
+DK9014;9014;Rise;Rise;DK032 - Sydjylland;null
+DK9019;9019;Gråsten-Adsbøl;Gråsten-Adsbøl;DK032 - Sydjylland;null
+DK9029;9029;Bov;Bov;DK032 - Sydjylland;null
+DK9038;9038;Skærbæk;Skærbæk;DK032 - Sydjylland;null
+DK9045;9045;Løgumkloster;Løgumkloster;DK032 - Sydjylland;null
+DK9047;9047;Brede;Brede;DK032 - Sydjylland;null
+DK9051;9051;Højer;Højer;DK032 - Sydjylland;null
+DK9056;9056;Burkal;Burkal;DK032 - Sydjylland;null
+DK9061;9061;Tinglev;Tinglev;DK032 - Sydjylland;null
+DK9062;9062;Rømø;Rømø;DK032 - Sydjylland;null
+DK9064;9064;Øster Hassing;Øster Hassing;DK050 - Nordjylland;null
+DK9067;9067;Vamdrup;Vamdrup;DK032 - Sydjylland;null
+DK9075;9075;Aarup;Aarup;DK031 - Fyn;null
+DK9083;9083;Hedehusene;Hedehusene;DK012 - Københavns omegn;null
+DK9086;9086;Hadsten;Hadsten;DK042 - Østjylland;null
+DK9102;9102;Ulstrupbro;Ulstrupbro;DK042 - Østjylland;null
+DK9104;9104;Ry;Ry;DK042 - Østjylland;null
+DK9109;9109;Stensby;Stensby;DK022 - Vest- og Sydsjælland;null
+DK9112;9112;Juelsminde;Juelsminde;DK042 - Østjylland;null
+DK9122;9122;Tarm;Tarm;DK041 - Vestjylland;null
+DK9125;9125;Ilderhede;Ilderhede;DK041 - Vestjylland;null
+DK9134;9134;Opstandelseskirkens;Opstandelseskirkens;DK012 - Københavns omegn;null
+DK9136;9136;Vodskov;Vodskov;DK050 - Nordjylland;null
+DK9153;9153;Agerbæk;Agerbæk;DK032 - Sydjylland;null
+DK9157;9157;Gistrup;Gistrup;DK050 - Nordjylland;null
+DK9166;9166;Skanderborg;Skanderborg;DK042 - Østjylland;null
+DK9167;9167;Ørnhøj;Ørnhøj;DK041 - Vestjylland;null
+DK9171;9171;Ebeltoft-Dråby-Handrup;Ebeltoft-Dråby-Handrup;DK042 - Østjylland;null
+DK9172;9172;Hvide Sande;Hvide Sande;DK041 - Vestjylland;null
+DK9174;9174;Vor Frue;Vor Frue;DK011 - Byen København;null
+DK9176;9176;Hjembæk-Svinninge;Hjembæk-Svinninge;DK022 - Vest- og Sydsjælland;null
+DK9178;9178;Tønder;Tønder;DK032 - Sydjylland;null
+DK9179;9179;Kollerup-Fjerritslev;Kollerup-Fjerritslev;DK050 - Nordjylland;null
+DK9179;9179;Skamstrup-Frydendal;Skamstrup-Frydendal;DK022 - Vest- og Sydsjælland;null
+DK9184;9184;Arden;Arden;DK050 - Nordjylland;null
+DK9185;9185;Vesterbro;Vesterbro;DK011 - Byen København;null
+DK9202;9202;Vinderup;Vinderup;DK041 - Vestjylland;null
+DK9217;9217;Terndrup;Terndrup;DK050 - Nordjylland;null
+DK9226;9226;Østervrå;Østervrå;DK050 - Nordjylland;null
+DK9230;9230;Jerup;Jerup;DK050 - Nordjylland;null
+DK9243;9243;Villingerød;Villingerød;DK013 - Nordsjælland;null
+DK9269;9269;Hovborg;Hovborg;DK032 - Sydjylland;null
+DK9271;9271;Mosevrå;Mosevrå;DK032 - Sydjylland;null
+DK9286;9286;Vonge;Vonge;DK032 - Sydjylland;null
+DK9291;9291;Ål;Ål;DK032 - Sydjylland;null
+DK9292;9292;Vipperød;Vipperød;DK022 - Vest- og Sydsjælland;null
